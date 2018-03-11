@@ -5,3 +5,4 @@ Uses ip-api and Simple Weather api to display weather information. Dynamically l
 ## Libraries
 * jQuery
 * Simple Weather
+* ip-api
