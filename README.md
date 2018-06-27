@@ -13,4 +13,3 @@ Uses an API call to ip-api.com/json to gather location data and then uses the Si
 ## Author
 
 * **John Irle** - [JohnIrle](https://github.com/JohnIrle)
->>>>>>> Update README
